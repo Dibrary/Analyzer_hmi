@@ -9,3 +9,8 @@ C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.csproj.Genera
 C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.csproj.CoreCompileInputs.cache
 C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.exe
 C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.pdb
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Operation.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Calibration.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Eventlog.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Maintenance.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Setup.resources

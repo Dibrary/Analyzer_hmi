@@ -16,5 +16,22 @@ namespace Analyzer_hmi
         {
             InitializeComponent();
         }
+
+        private void enter_button_Click(object sender, EventArgs e)
+        {
+            String password = "1234";
+
+            if ((comboBox1.Text + comboBox2.Text + comboBox3.Text + comboBox4.Text) == password)
+            {
+                Operation operation_view = new Operation();
+                operation_view.ShowDialog();
+
+            }
+            else
+            {
+                MessageBox.Show("Password is Wrong");
+            }
+
+        }
     }
 }
