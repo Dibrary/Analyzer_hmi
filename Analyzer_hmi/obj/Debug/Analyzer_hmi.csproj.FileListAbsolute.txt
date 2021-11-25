@@ -1,0 +1,11 @@
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\bin\Debug\Analyzer_hmi.exe.config
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\bin\Debug\Analyzer_hmi.exe
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\bin\Debug\Analyzer_hmi.pdb
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.csprojAssemblyReference.cache
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Form1.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Password.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Properties.Resources.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.csproj.GenerateResource.cache
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.csproj.CoreCompileInputs.cache
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.exe
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.pdb
