@@ -31,13 +31,13 @@
             this.label1 = new System.Windows.Forms.Label();
             this.start_button = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.eventlog_button = new System.Windows.Forms.Button();
+            this.calibration_button = new System.Windows.Forms.Button();
+            this.maintenance_button = new System.Windows.Forms.Button();
+            this.setup_button = new System.Windows.Forms.Button();
             this.emergency_stop_button = new System.Windows.Forms.Button();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.status_button = new System.Windows.Forms.Button();
-            this.setup_button = new System.Windows.Forms.Button();
-            this.maintenance_button = new System.Windows.Forms.Button();
-            this.calibration_button = new System.Windows.Forms.Button();
-            this.eventlog_button = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -61,6 +61,7 @@
             this.start_button.TabIndex = 3;
             this.start_button.Text = "START";
             this.start_button.UseVisualStyleBackColor = true;
+            this.start_button.Click += new System.EventHandler(this.start_button_Click);
             // 
             // groupBox1
             // 
@@ -75,6 +76,50 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "options";
             // 
+            // eventlog_button
+            // 
+            this.eventlog_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.eventlog_button.Location = new System.Drawing.Point(18, 227);
+            this.eventlog_button.Name = "eventlog_button";
+            this.eventlog_button.Size = new System.Drawing.Size(210, 63);
+            this.eventlog_button.TabIndex = 11;
+            this.eventlog_button.Text = "EVENT LOG";
+            this.eventlog_button.UseVisualStyleBackColor = true;
+            this.eventlog_button.Click += new System.EventHandler(this.eventlog_button_Click);
+            // 
+            // calibration_button
+            // 
+            this.calibration_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.calibration_button.Location = new System.Drawing.Point(18, 158);
+            this.calibration_button.Name = "calibration_button";
+            this.calibration_button.Size = new System.Drawing.Size(210, 63);
+            this.calibration_button.TabIndex = 10;
+            this.calibration_button.Text = "CALIBRATION";
+            this.calibration_button.UseVisualStyleBackColor = true;
+            this.calibration_button.Click += new System.EventHandler(this.calibration_button_Click);
+            // 
+            // maintenance_button
+            // 
+            this.maintenance_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.maintenance_button.Location = new System.Drawing.Point(18, 89);
+            this.maintenance_button.Name = "maintenance_button";
+            this.maintenance_button.Size = new System.Drawing.Size(210, 63);
+            this.maintenance_button.TabIndex = 9;
+            this.maintenance_button.Text = "MAINTENANCE";
+            this.maintenance_button.UseVisualStyleBackColor = true;
+            this.maintenance_button.Click += new System.EventHandler(this.maintenance_button_Click);
+            // 
+            // setup_button
+            // 
+            this.setup_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.setup_button.Location = new System.Drawing.Point(18, 20);
+            this.setup_button.Name = "setup_button";
+            this.setup_button.Size = new System.Drawing.Size(210, 63);
+            this.setup_button.TabIndex = 8;
+            this.setup_button.Text = "SET UP";
+            this.setup_button.UseVisualStyleBackColor = true;
+            this.setup_button.Click += new System.EventHandler(this.setup_button_Click);
+            // 
             // emergency_stop_button
             // 
             this.emergency_stop_button.BackColor = System.Drawing.Color.Red;
@@ -86,6 +131,7 @@
             this.emergency_stop_button.TabIndex = 5;
             this.emergency_stop_button.Text = "EMERGENCY\r\nSTOP";
             this.emergency_stop_button.UseVisualStyleBackColor = false;
+            this.emergency_stop_button.Click += new System.EventHandler(this.emergency_stop_button_Click);
             // 
             // dateTimePicker1
             // 
@@ -102,50 +148,6 @@
             this.status_button.Size = new System.Drawing.Size(41, 40);
             this.status_button.TabIndex = 7;
             this.status_button.UseVisualStyleBackColor = true;
-            // 
-            // setup_button
-            // 
-            this.setup_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.setup_button.Location = new System.Drawing.Point(18, 20);
-            this.setup_button.Name = "setup_button";
-            this.setup_button.Size = new System.Drawing.Size(210, 63);
-            this.setup_button.TabIndex = 8;
-            this.setup_button.Text = "SET UP";
-            this.setup_button.UseVisualStyleBackColor = true;
-            this.setup_button.Click += new System.EventHandler(this.setup_button_Click);
-            // 
-            // maintenance_button
-            // 
-            this.maintenance_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.maintenance_button.Location = new System.Drawing.Point(18, 89);
-            this.maintenance_button.Name = "maintenance_button";
-            this.maintenance_button.Size = new System.Drawing.Size(210, 63);
-            this.maintenance_button.TabIndex = 9;
-            this.maintenance_button.Text = "MAINTENANCE";
-            this.maintenance_button.UseVisualStyleBackColor = true;
-            this.maintenance_button.Click += new System.EventHandler(this.maintenance_button_Click);
-            // 
-            // calibration_button
-            // 
-            this.calibration_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.calibration_button.Location = new System.Drawing.Point(18, 158);
-            this.calibration_button.Name = "calibration_button";
-            this.calibration_button.Size = new System.Drawing.Size(210, 63);
-            this.calibration_button.TabIndex = 10;
-            this.calibration_button.Text = "CALIBRATION";
-            this.calibration_button.UseVisualStyleBackColor = true;
-            this.calibration_button.Click += new System.EventHandler(this.calibration_button_Click);
-            // 
-            // eventlog_button
-            // 
-            this.eventlog_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.eventlog_button.Location = new System.Drawing.Point(18, 227);
-            this.eventlog_button.Name = "eventlog_button";
-            this.eventlog_button.Size = new System.Drawing.Size(210, 63);
-            this.eventlog_button.TabIndex = 11;
-            this.eventlog_button.Text = "EVENT LOG";
-            this.eventlog_button.UseVisualStyleBackColor = true;
-            this.eventlog_button.Click += new System.EventHandler(this.eventlog_button_Click);
             // 
             // label2
             // 

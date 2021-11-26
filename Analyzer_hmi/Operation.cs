@@ -40,5 +40,20 @@ namespace Analyzer_hmi
             Eventlog eventlog_view = new Eventlog();
             eventlog_view.ShowDialog();
         }
+
+        private void emergency_stop_button_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Emergency 버튼이 눌렸습니다.");
+            status_button.BackColor = Color.Red;
+        }
+
+        private void start_button_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("측정을 시작합니다.", "measure", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                MessageBox.Show("측정 시작.");
+                status_button.BackColor = Color.Green;
+            }
+        }
     }
 }

@@ -16,5 +16,11 @@ namespace Analyzer_hmi
         {
             InitializeComponent();
         }
+
+        private void modbus_save_button_Click(object sender, EventArgs e)
+        {
+            String modbus_ip_str = modbus_ip.Text; // 사용자가 입력한 Modbus IP값 가져오기.
+            MessageBox.Show(modbus_ip_str);
+        }
     }
 }

@@ -34,19 +34,19 @@
             this.label4 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.limit_save_button = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.date_save_button = new System.Windows.Forms.Button();
             this.label10 = new System.Windows.Forms.Label();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
             this.modbus_save_button = new System.Windows.Forms.Button();
+            this.modbus_ip = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -121,28 +121,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "LIMIT";
             // 
-            // textBox1
+            // limit_save_button
             // 
-            this.textBox1.Location = new System.Drawing.Point(79, 64);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 21);
-            this.textBox1.TabIndex = 8;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(79, 95);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 21);
-            this.textBox2.TabIndex = 9;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(185, 67);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(15, 12);
-            this.label5.TabIndex = 10;
-            this.label5.Text = "%";
+            this.limit_save_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.limit_save_button.Location = new System.Drawing.Point(6, 199);
+            this.limit_save_button.Name = "limit_save_button";
+            this.limit_save_button.Size = new System.Drawing.Size(202, 73);
+            this.limit_save_button.TabIndex = 9;
+            this.limit_save_button.Text = "SAVE";
+            this.limit_save_button.UseVisualStyleBackColor = true;
             // 
             // label6
             // 
@@ -153,15 +140,28 @@
             this.label6.TabIndex = 11;
             this.label6.Text = "%";
             // 
-            // limit_save_button
+            // label5
             // 
-            this.limit_save_button.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.limit_save_button.Location = new System.Drawing.Point(6, 199);
-            this.limit_save_button.Name = "limit_save_button";
-            this.limit_save_button.Size = new System.Drawing.Size(202, 73);
-            this.limit_save_button.TabIndex = 9;
-            this.limit_save_button.Text = "SAVE";
-            this.limit_save_button.UseVisualStyleBackColor = true;
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(185, 67);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(15, 12);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "%";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(79, 95);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(100, 21);
+            this.textBox2.TabIndex = 9;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(79, 64);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 21);
+            this.textBox1.TabIndex = 8;
             // 
             // groupBox2
             // 
@@ -174,6 +174,13 @@
             this.groupBox2.TabIndex = 12;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "DATE";
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(60, 29);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(169, 21);
+            this.dateTimePicker1.TabIndex = 10;
             // 
             // date_save_button
             // 
@@ -194,17 +201,10 @@
             this.label10.TabIndex = 6;
             this.label10.Text = "TODAY";
             // 
-            // dateTimePicker1
-            // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(60, 29);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(169, 21);
-            this.dateTimePicker1.TabIndex = 10;
-            // 
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.modbus_save_button);
-            this.groupBox3.Controls.Add(this.textBox3);
+            this.groupBox3.Controls.Add(this.modbus_ip);
             this.groupBox3.Controls.Add(this.label7);
             this.groupBox3.Location = new System.Drawing.Point(318, 12);
             this.groupBox3.Name = "groupBox3";
@@ -212,22 +212,6 @@
             this.groupBox3.TabIndex = 13;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "IP";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(8, 33);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(57, 12);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "MODBUS";
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(71, 25);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(169, 21);
-            this.textBox3.TabIndex = 14;
             // 
             // modbus_save_button
             // 
@@ -238,6 +222,23 @@
             this.modbus_save_button.TabIndex = 11;
             this.modbus_save_button.Text = "SAVE";
             this.modbus_save_button.UseVisualStyleBackColor = true;
+            this.modbus_save_button.Click += new System.EventHandler(this.modbus_save_button_Click);
+            // 
+            // modbus_ip
+            // 
+            this.modbus_ip.Location = new System.Drawing.Point(71, 25);
+            this.modbus_ip.Name = "modbus_ip";
+            this.modbus_ip.Size = new System.Drawing.Size(169, 21);
+            this.modbus_ip.TabIndex = 14;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(8, 33);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(57, 12);
+            this.label7.TabIndex = 6;
+            this.label7.Text = "MODBUS";
             // 
             // Setup
             // 
@@ -280,7 +281,7 @@
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox modbus_ip;
         private System.Windows.Forms.Button modbus_save_button;
     }
 }
