@@ -1,0 +1,36 @@
+Release Notes for OmniDriver 2.12  - June 20, 2012
+
+
+New Features
+------------
+
+1. The installer for the Mac OS X platform has been rewritten.  
+   OmniDriver for the Mac is now distributed as an application-bundle in the form of a *.tar.gz file.
+   The new installer will create all necessary environment variables, and update the PATH automatically.
+   Refer to the section titled "Installing on a Mac OS X Platform" in chapter two of the
+   "OmniDriver Programming Manual" for more details.
+
+2. The javadocs for OmniDriver have been pared down.  
+   We have removed superfluous documentation for classes that are not a part of the public API.
+
+3. ThermoElectric has been replaced by ThermoElectricWrapper.
+   This new interface adds the getTECEnable() and getFanEnable() methods which were missing from ThermoElectric.
+
+   
+
+Bug Fixes
+---------
+
+1. Due to a bug in our 64-bit Windows installers, users must manually install the drivers
+   for their spectrometers on 64-bit Windows systems.  This has now been fixed. 
+   As a result, the following spectrometers will automatically install the required driver
+   when they are plugged in:
+   (USB2000, USB4000, HR4000, USB325, USB650, Amadeus/USB250/USB500, JAZ, STS)
+   (TRACKER 2525)
+
+2. When installing the 32-bit OmniDriver API on a 64-bit Windows platform,
+   the installer will automatically replace the 32-bit NatUSB.dll with the 64-bit version.
+   Thus, customers may run any 32-bit OmniDriver installer on any 32 or 64 bit Windows system
+   and their 32-bit application will run on both 32 bit and 64 bit Windows platforms.
+
+3. A bug has been fixed which prevented running more than one NIRQuest512 (or NIRQuest256) at a time.

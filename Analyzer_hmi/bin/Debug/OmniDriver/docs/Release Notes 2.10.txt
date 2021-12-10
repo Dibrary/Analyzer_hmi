@@ -1,0 +1,37 @@
+Release Notes for OmniDriver 2.10  - 2012.02.29
+
+
+New Features
+------------
+
+1. Added support for STS pixel-binning modes.
+   The new C# demo application "STSFeatures" illustrates how to use this feature.
+
+2. Two new methods have been added to the Wrapper API that give the STS spectrometer
+   the unique ability to recover from an unresponsive state when the spectrometer has been
+   placed in one of the hardware trigger modes and no trigger signal occurs.
+   Formerly it was necessary to physically unplug the spectrometer and reconnect it
+   in order to recover from this state.
+   Refer to the javadocs for the wrapper method named sendSimulatedTriggerSignal() for details
+   on how to use this new capability.
+   This new capability is also demonstrated in a new C# sample named "STSFeatures".
+
+3. Create a new getFeatureController_USB_LS450_ExternalTemperature() method 
+   that exposes the "ExternalTemperatureWrapper" interface.  
+   The external temperature probe "piggy-backs" off the USB_LS450 device.
+
+
+4. USB4000 now supports "uniform trigger modes".
+
+   
+
+Bug Fixes
+---------
+
+1. The "InternalTrigger" feature has been fixed - the missing method getInternalTriggerPeriodMicros() 
+   has been implemented in the public interface.
+   wrapper.getFeatureControllerInternalTrigger() has been modified to return a new object named
+   "InternalTriggerWrapper".  InternalTriggerWrapper contains the missing method.
+
+2. High-speed acquisition unnecessary overhead removed for the STS spectrometer.
+

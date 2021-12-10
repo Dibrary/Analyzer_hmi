@@ -14,3 +14,5 @@ C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Calibration.r
 C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Eventlog.resources
 C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Maintenance.resources
 C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.Setup.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\bin\Debug\NETOmniDriver-NET40.dll
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Analyzer_hmi\obj\Debug\Analyzer_hmi.csproj.CopyComplete

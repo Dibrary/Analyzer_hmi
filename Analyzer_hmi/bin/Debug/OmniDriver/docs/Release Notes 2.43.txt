@@ -1,0 +1,22 @@
+Release Notes for OmniDriver 2.43  - 2016.04.10
+
+
+New Features
+------------
+
+1. Added support for Flame-NIR spectrometer.
+
+2. Added initial support for Blaze-S spectrometer.
+
+3. Updated installers to latest Bit Rock version 16.0.1.
+
+4. Added Autonulling to spectrometers which require this feature. 
+   Available via WrapperExtension class. This feature is password 
+   protected.
+
+Bug Fixes
+---------
+
+1. Miscellaneous Installation / UnInstallation bugs fixed.
+
+2. Accomodate "bad pixels" undefined for the NirQuest spectrometer.

@@ -1,0 +1,28 @@
+Release Notes for OmniDriver 2.31  - 2014.02.18
+ 
+
+ 
+
+New Features
+
+------------
+
+1. Added support for QE-Pro spectrometer. Incuding TEC control, Data buffering, SPI-bus and I2C-bus.
+ 
+2. Added support for APEX spectrometer.
+
+3. Added support for Ventana spectrometer. Including TEC and laser controls.
+
+4. Add command to set shutter usability flag on STS spectrometer.
+
+5. Auto detect winusb thus eliminating WHQL certification. When using the QEPro under Windows, drivers are 
+   installed automatically by Microsoft. The QEPro uses Microsoft's 'winusb' driver. 
+
+
+
+Bug Fixes
+
+---------
+
+None.
+

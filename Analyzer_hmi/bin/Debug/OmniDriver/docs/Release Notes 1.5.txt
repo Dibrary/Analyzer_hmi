@@ -1,0 +1,113 @@
+
+			Release Notes for OmniDriver 1.5
+				  November 2009
+
+
+Version 1.5 is a full release, including all fixes and enhancements since version 1.0 of OmniDriver.
+
+Version 1.5 may be installed on top of any previous version of OmniDriver.
+
+
+
+INSTALLATION PROCEDURE
+
+Follow the normal procedures given in the OmniDriver Programming Guide.  You may download this Guide separately.
+
+
+WHAT'S NEW -- Cumulative list of changes since version 1.0
+
+1. (1.1) OmniDriver applications will no longer crash if you unplug the spectrometer while acquiring spectra 
+   via the getSpectrum() method.  Instead, if any error occurs, getSpectrum() will return a spectra 
+   containing all zeroes.  We have added the new method isSpectrumValid() which you should call after
+   every call to getSpectrum().  isSpectrumValid() will return a boolean TRUE or FALSE indicating
+   whether an error occurred which would invalidate the spectrum.
+2. (1.1) ADC1000-USB channels may now be selectively enabled or disabled, in any combination.
+   Formerly an error occurred if you did not enable all channels with lower channel numbers than the
+   highest enabled slave channel.  For example, if you enabled channel 3, but did not enable
+   channels 2, 1, and 0, this error would occur.  These configurations will now operate correctly.
+3. (1.1) Added support for the NIRQuest spectrometer
+4. (1.2) A newer version of the Java virtual Machine ("JVM") is being supplied with version 1.2
+   There are no other changes.
+5. (1.3) Added the ability to read and write the auto-nulling parameters.
+6. (1.4) Implemented the "external trigger delay" feature of the NIRQuest.
+7. (1.4) Corrected the list of available hardware trigger modes offered by the NIRQuest.
+8. (1.5) Fix problem with NIRQuest.  Prevent over-writing of saturation threshold setting when saving the "high-gain" mode 
+   setting.
+9. (1.5) Added support for the USB-ISS-UV light source plugin.
+10. (1.5) Added support for the USB500
+11. (1.5) Added LabVIEW VI's for wrapper.exportToGramsSPC() and wrapper.openNetworkSpectrometer()
+12. (1.5) Added new LabVIEW samples:
+      - SpectrometerTestGrams.vi demonstrates the use of the new exportToGramsSPC() VI
+      - NetworkMultichannelSpectrometerTest.vi demonstrates the use of the new openNetworkSpectrometer() VI
+13. (1.5) Added a new Borland sample which demonstrates how to access OmniDriver functionality
+    using the "C" interface to OmniDriver.
+
+
+
+
+UPDATES TO THE PROGRAMMER'S GUIDE -- version 1.5
+
+Added the following functions to the Wrapper class:
+    boolean isFeatureSupported_UV_VIS_LightSource(int spectrometerIndex)
+    UV_VIS_LightSource getFeatureController_UV_VIS_LightSource(int spectrometerIndex)
+
+
+
+UPDATES TO THE PROGRAMMER'S GUIDE -- version 1.3
+
+Added the following methods to allow the developer to read and write the auto-nulling parameters.
+
+    wrapperExtensions.getAutonullingConfiguration(int spectrometerIndex)
+	returns an instance of the AutonullingConfiguration object
+
+    wrapperExtensions.setAutonullingConfiguration(int spectrometerIndex,
+       						  int enabled, int temperatureCompensationEnabled, 
+						  int darkValue, double saturationValue)
+
+
+UPDATES TO THE PROGRAMMER'S GUIDE -- version 1.1
+
+There is no change to existing functions in the Wrapper API. All existing functions still accept 
+the same parameters and return the same values.  The 1.1 release only adds a few more functions.
+Here is a list of the new functions.
+
+All new methods "belong" to a new object named "WrapperExtensions".  This allows us to avoid impacting
+applications you may have already written.  When you wish to call one of the new methods,
+you must first obtain a "handle" to the new WrapperExtensions object.  You do this as follows:
+	wrapper.getWrapperExtensions()
+The sample code below illustrates how to do this in greater detail.
+
+
+isSpectrumValid(int spectrometerIndex)
+isSpectrumValid(int spectrometerIndex, int channelIndex)
+
+	Returns boolean TRUE or FALSE.
+
+	To call this method, do the following:
+	wrapper.getWrapperExtensions().isSpectrumValid(spectrometerIndex)
+
+
+getNumberOfChannels(int spectrometerIndex)
+
+	Returns the total number of channels possessed by this spectrometer,
+	regardless whether those channels are enabled or not.
+	
+	To call this method, do the following:
+	wrapper.getWrapperExtensions().getNumberOfChannels(spectrometerIndex)
+
+getNumberOfEnabledChannels(int spectrometerIndex)
+
+	Returns the number of channels which are currently actually "enabled".
+	Channels are enabled by setting bits in the "enable byte".
+	You may use USBProgrammer to do this.
+	
+	To call this method, do the following:
+	wrapper.getWrapperExtensions().getNumberOfEnabledChannels(spectrometerIndex)
+	
+isChannelEnabled(int spectrometerIndex, int channelIndex)
+
+	Returns boolean TRUE or FALSE.
+	
+	To call this method, do the following:
+	wrapper.getWrapperExtensions().isChannelEnabled(spectrometerIndex,channelIndex)
+	

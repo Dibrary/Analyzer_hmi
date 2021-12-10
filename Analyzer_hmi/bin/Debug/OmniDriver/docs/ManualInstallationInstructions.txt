@@ -1,0 +1,79 @@
+
+The following manual installation procedure should NOT be necessary if you used
+one of the automated installation wizards.
+
+If at all possible, please use one of the following installation wizards, 
+depending on your product and platform:
+
+	- OmniDriverSPAM_YYYY.MM.DD_Linux.bin
+	- OmniDriverSPAM_YYYY.MM.DD_Mac.dmg
+	- OmniDriverSPAM_YYYY.MM.DD_Win32.exe
+
+	- OmniDriver_YYYY.MM.DD_Linux.bin
+	- OmniDriver_YYYY.MM.DD_Mac.dmg
+	- OmniDriver_YYYY.MM.DD_Win32.exe
+
+	- SPAM_YYYY.MM.DD_Linux.bin
+	- SPAM_YYYY.MM.DD_Mac.dmg
+	- SPAM_YYYY.MM.DD_Win32.exe
+
+If you are unable to use an installation wizard, then download the ZIP file which
+corresponds to your product.  Choose one of the following:
+	- OmniDriverSPAM_YYYY.MM.DD_LegacyWin32.zip file
+	- OmniDriver_YYYY.MM.DD_LegacyWin32.zip file
+	- SPAM_YYYY.MM.DD_LegacyWin32.zip file
+
+Then perform the following steps.
+
+1. Unzip the file to a NEW location. This will create a new directory tree
+   whose root name corresponds to the ZIP file name.  There will be several new
+   subdirectories, depending on which product you are installing.
+
+2. Update your OOI_HOME environment variable to point to the newly created OOI_HOME directory.
+   To do this on Windows:  go to the Control Panel, click on the "System" icon, click on the
+   "Advanced" tab, then click on the "Environment Variables" button.  Then, in the "System Variables"
+   list, find (or create) the OOI_HOME variable and set its value appropriately.
+
+3. Make sure the new OOI_HOME directory is in the system PATH.
+   To do this on Windows:  go to the Control Panel, click on the "System" icon, click on the
+   "Advanced" tab, then click on the "Environment Variables" button.  Then, in the "System Variables"
+   list, find (or create) the PATH variable and set its value appropriately.
+
+4. Register the new DLL(s) (Windows only)
+   A. Open a DOS window
+   B. cd into the new OOI_HOME directory
+   C. If the file "OmniDriver32.dll" is present, type the command
+      regsvr32 OmniDriver32.dll
+   D. If the file SPAM32.dll is present, type the command
+	  regsvr32 SPAM32.dll
+   E. If the registration process(es) were successful, you should see a small popup window
+	  after about 10-15 seconds indicating the DLL was registered.
+
+5. For Windows users:
+   If you are installing the "OmniDriver" or "OmniDriverSPAM" products,
+   perform the following copy commands.
+   copy *.sys from the drivers directory to c:\windows\system32\drivers
+   copy *.inf from the drivers directory to c:\Windows\inf
+
+6. For Linux users: 
+   If you are installing the "OmniDriver" or "OmniDriverSPAM" products,
+   perform the following steps.
+   - Copy the file 10-oceanoptics.rules from the "drivers" directory into /etc/udev/rules.d
+   - restart udev.  On Fedora and similar linux distros, you can restart
+     udev with the following commands:
+     udevcontrol reload_rules
+     udevstart
+     If this does not successfully restart udev, you will need to reboot.
+   - Make certain the "libusb" library has been installed on your system.  It should be a relatively recent
+     version of the library.  You can use the "apt" utility to check if it has been installed.
+
+7. For all products and platforms: 
+   If you have not already downloaded and installed the Java JRE 1.6 or above, please do so now.
+   This is necessary to use OmniDriver, regardless of which language you are developing in.
+   IMPORTANT: If you are developing in the "C" or C++ language, you must install the "JDK" form of java.
+   It may help to avoid confusion if you uninstall any previous versions of java on your system,
+   but this is optional.
+   Add the new version of java to your system PATH.  The location of java should be something
+   like "C:\Program Files\Java\jre1.6.0_05\bin"
+   To verify that the system is using the new version of java, open a DOS window and type
+   "java -version".  It should indicate you are running java 1.6 or later.

@@ -1,0 +1,16 @@
+Release Notes for OmniDriver 2.0  - 2011.11.08
+
+
+New Features
+------------
+
+1. We now support ".NET 4.0"
+2. Changes to support unified trigger modes on MayaPro2000
+   
+
+Bug Fixes
+---------
+
+1. A problem with the "Internal Trigger" feature of the JAZ was fixed.
+2. No stability scan should be taken when in external trigger mode
+   for the USB2000+ (tracker 1998).

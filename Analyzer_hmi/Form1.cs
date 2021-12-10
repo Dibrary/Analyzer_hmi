@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using OmniDriver;
 
 namespace Analyzer_hmi
 {
     public partial class Form1 : Form
     {
+        OmniDriver.NETWrapper wrapper = null; // x64로 CPU 버전을 수정해야 실행 된다.
+
         public Form1()
         {
             InitializeComponent();
@@ -32,6 +35,8 @@ namespace Analyzer_hmi
 
             richTextBox1.Text = "2021-11-20 Validation pass \n2021-11-21 Calibration pass";
             richTextBox1.ReadOnly = true;
+
+            wrapper = new OmniDriver.NETWrapper();
 
         }
 

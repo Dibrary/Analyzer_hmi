@@ -1,0 +1,29 @@
+Release Notes for OmniDriver 1.65  - 2011.05.04
+
+
+New Features
+------------
+1. Added native support for Linux x86_64 (i.e. 64-bit platform)
+   We bundle Java JVM version 1.6.0_01 with this release.
+   IMPORTANT: you MUST use this version of Java when running your OmniDriver applications.
+   Otherwise you will get a segmentation fault when you run your app.
+
+
+Bug Fixes
+---------
+1. A no-argument constructor has been added to the CIEColor object
+   for the "C"/stdcall calling convention API.
+2. Made communications with the JAZ unit more robust. Occasional network communication
+   interruptions could result in OmniDriver mis-interpreting data sent by the JAZ,
+   which in turn could result in bogus calibration settings being applied by OmniDriver
+   to JAZ spectra.
+3. HR4000 electric dark correction was using incorrect pixels.
+
+
+Samples
+-------
+1. A new sample application has been added to the SamplePack.
+   It demonstrates how to use the "C"/stdcall interface
+   to OmniDriver in order to perform various color
+   calculations using the SPAM library.
+   It is located at C:\Ocean Optics\OmniDriverSamplePack\spam\win32\cpp\vs2005_cpp_c_AdvancedColor.

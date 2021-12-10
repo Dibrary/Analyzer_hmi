@@ -1,0 +1,96 @@
+Release Notes for OmniDriver 1.64  - 2011.03.17
+
+(Cumulative changes since release 1.6)
+
+
+Bug Fixes
+---------
+1. Solved the "Missing MSVCR80.dll" problem when running debug-mode OmniDriver apps.  (tracker 1744)
+2. ADC1000USB hangs the application during initialization.  (tracker 1676)
+3. OmniDriver crashes when you delete the Wrapper object
+   or other SPAM objects.  (tracker 799)
+4. Fix memory leak.  (tracker 1713)
+5. Create() methods were missing for certain SPAM-related objects.  (trackers 1721, 1746)
+6. Irradiance calibration feature was not implemented correctly.  (tracker 598)
+
+
+New Features
+------------
+1. Timeout Feature: provide a way for applications to get out of external trigger mode when 
+   no trigger signal is expected. (tracker 822)
+2. Add support for the STS spectrometer.  (tracker 1737)
+
+
+Samples
+-------
+A new C++ sample has been added to demonstrate how to use the new timeout capability.
+The name of the sample is vs2005_cpp_cpp_TimeoutDemo.
+
+
+
+IMPORTANT: IF YOU ARE UPGRADING FROM VERSION 1.5 TO 1.6x FOR THE FIRST TIME
+---------------------------------------------------------------------------
+
+If you are upgrading your OmniDriver installation from version 1.5 (or earlier) to version 1.6x
+please read the following instructions carefully.
+
+
+IMPORTANT - Before you upgrade to OmniDriver 1.6
+---------
+You will need to make minor changes to your OmniDriver
+application in order to adapt it to use OmniDriver 1.6
+Please carefully read the document titled
+	"How to Upgrade Your Application to Use OmniDriver 1.6.pdf"
+before installing OmniDriver 1.6
+This document is organized into sections for each development
+language. Find the section for the language you are developing with.
+
+
+.NET Framework
+--------------
+
+MANDATORY!
+
+Before you can install the new version of OmniDriver on Windows platforms,
+you must first ensure that .NET Framework 2.0 or later has been installed.
+Most Windows platforms will already satisfy this requirement.
+But if you are using an older version of Windows, it may be necessary
+for you to manually upgrade your system to .NET Framework 2.0.
+Installers for 32-bit and 64-bit flavors of the .NET 2.0 Framework
+may be downloaded directly from the Ocean Optics FTP server
+at ftp://downloads.oceanoptics.net/OmniDriver/windows_dotnet_framework_installers/ 
+
+The names of the installer files are:
+32-bit: DotNetFramework_2.0_32bit.exe
+64-bit: DotNetFramework_2.0_64bit.exe
+
+
+Samples
+-------
+Samples have been moved into a separate installer for all Windows-based samples.
+The name of the new installer is
+OmniDriver_and_SPAM-OceanOpticsSamplePack-1.6-windows-installer.exe
+
+
+NEW DRIVERS
+-----------
+
+On 64-bit Windows systems, OmniDriver 1.6 is distributed with a completely new 
+low-level "driver" named "WinUSB".
+32-bit Windows systems will continue to use the ezusb.sys driver for all Ocean Optics spectrometers.
+
+
+64-bit Support
+--------------
+We now support 32-bit and 64-bit versions of Windows XP, Vista, and Windows 7.
+
+
+
+.NET Support (COM is deprecated)
+--------------------------------
+This release of OmniDriver adds support for the .NET interface.
+The principle benefit of the new OmniDriver .NET interface
+is true multi-threading.  Threads will no longer be blocked
+by OmniDriver function calls in other threads.
+The COM interface has been deprecated, although it is still
+available for applications which are developed in Visual Basic 6 (VB6).

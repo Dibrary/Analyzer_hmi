@@ -1,0 +1,1666 @@
+Log started 09/30/2021 at 11:31:54
+Preferred installation mode : win32
+Trying to init installer in mode win32
+Mode win32 successfully initialized
+?? ??
+Added OOI_HOME environment variable with value C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME in scope system
+Added OMNIDRIVER_HOME environment variable with value C:\Program Files\Ocean Optics\OmniDriver in scope system
+?? ?? ??????
+?? ??
+C:\Program Files\Ocean Optics ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver ????? ??? ?
+?? ??? ?? ?
+????? ?? ?????. C:\Program Files\Ocean Optics\OmniDriver
+C:\Program Files\Ocean Optics\OmniDriver\_jvm ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\dtplugin ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\plugin2 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\server ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\applet ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\jfr ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\amd64 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\cmm ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\management ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\macosx ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\linux ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP ????? ??? ?
+?? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\THIRDPARTYLICENSEREADME.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\THIRDPARTYLICENSEREADME-JAVAFX.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\javafx_iio.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jli.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\javacpl.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\nio.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\t2k.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\java.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\prism_d3d.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\management.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jpeg.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\unpack200.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\kcms.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jabswitch.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\JavaAccessBridge-64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\lcms.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jsound.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\j2pkcs11.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\prism_common.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\javacpl.cpl? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\prism_sw.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\eula.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\decora_sse.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\verify.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jdwp.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\ssvagent.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jfxmedia.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\unpack.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\sunec.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\instrument.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\javaw.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\hprof.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\zip.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\glass.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jp2ssv.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\sawindbg.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\splashscreen.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\javafx_font.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\java.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\net.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\dcpr.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jp2launcher.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\prism_es2.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\fxplugins.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\WindowsAccessBridge-64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\wsdetect.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\plugin2\npjp2.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\tzdb.dat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\jfxswt.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\classlist? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\splash.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security\cacerts? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaTypewriterRegular.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaBrightDemiBold.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaBrightDemiItalic.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaTypewriterBold.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaBrightItalic.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\cmm\CIEXYZ.pf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\jaccess.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\sunec.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\zipfs.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\access-bridge-64.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\GPIO.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\NonlinearityCorrectionProvider.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\ThermoElectric.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\AnalogOut.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\ContinuousStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\SingleStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\GPIO.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\ThermoElectric.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\AnalogOut.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\ExternalTriggerDelay.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\ContinuousStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\SingleStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\GPIO.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\ThermoElectric.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\AnalogOut.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\ExternalTriggerDelay.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\ContinuousStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\SingleStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\GPIO.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\ThermoElectric.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\AnalogOut.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\ExternalTriggerDelay.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\ContinuousStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\SingleStrobe.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\RegAsm32.vs2010.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\RegAsm64.vs2010.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\UniUSB.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\RegAsm32.vs2005.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatRS23232.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatUSB_32_ezusb.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libNatUSB.jnilib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\sn64.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\sn32.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\common64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatRS23264.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatRS232.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\common32.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\RegAsm64.vs2005.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\xstream-1.1.2.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\j2pcsc.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jawt.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\dt_socket.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\attach.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\java_crw_demo.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\dt_shmem.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jaas_nt.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\currency.data? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fontconfig.bfc? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security\blacklisted.certs? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\amd64\jvm.cfg? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\management\jmxremote.access? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\register_netwrapper64.bat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\register_netwrapper32.bat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\registerdlls.bat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\winusbcompat.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\ooi_oceanhdx.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\ooi_spark.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\ooi_oceanfx.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\winusbcompat.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\ooi_oceanfx_xp.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\ooi_oceanhdx.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\ooi_spark_xp.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\JAWTAccessBridge-64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jsdt.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jp2native.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\npt.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jfr.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jsoundds.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatUSBWin_32.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatUSB_32_winusb.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatDL_32.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatUSB_64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatHRTiming_64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatUSB.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatHRTiming_32.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatDL.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatDL_64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatHRTiming.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NatUSBwin_64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jjs.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\klist.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\orbd.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\keytool.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\ktab.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\rmiregistry.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\w2k_lsa_auth.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\policytool.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\sunmscapi.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\rmid.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\pack200.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\servertool.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\java-rmi.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\kinit.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\SpectrumTest32.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\tnameserv.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\win32_MoveDrop32x32.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\win32_CopyDrop32x32.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\win32_LinkDrop32x32.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\win32_LinkNoDrop32x32.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\win32_CopyNoDrop32x32.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\win32_MoveNoDrop32x32.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\invalid32x32.gif? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\SpectrumTest64.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\Welcome.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\psfont.properties.ja? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\management-agent.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\jfr\default.jfc? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\dnsns.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OOIUtils.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\HighResTiming.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\xpp3_min-1.1.3.4.M.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\UniRS232.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\OOI_OceanHDX.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\OOI_QEPRO.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\OOI_Spark.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Windows\OOI_OceanFX.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\OOI_OceanHDX.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\OOI_Spark_XP.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\OOI_QEPRO_XP.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\Offline Legacy WinXP\OOI_OceanFX_XP.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security\trusted.libraries? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\jfr\profile.jfc? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\BoardTemperature.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\AnalogIn.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\AnalogIn.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\BoardTemperature.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\AnalogIn.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\BoardTemperature.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\AnalogIn.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libNatHRTiming.jnilib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\logging.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\javafx.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fontconfig.properties.src? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\net.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\content-types.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\psfontj2d.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\accessibility.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\hijrah-config-umalqura.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\calendars.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\sound.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\flavormap.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_fr.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_zh_CN.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_es.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_sv.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_zh_HK.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_ja.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_ko.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_pt_BR.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_it.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_de.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\messages_zh_TW.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\images\cursors\cursors.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security\javaws.policy? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security\java.policy? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security\java.security? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\cmm\LINEAR_RGB.pf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\cmm\GRAY.pf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\cmm\sRGB.pf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\management\management.properties? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\management\jmxremote.password.template? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\management\snmp.acl.template? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\ExternalTriggerDelay.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\IrradianceCalibrationFactor.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\BoardTemperature.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\createsymlinksomnidriver.sh? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\createsymlinksomnidriverspam.sh? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\createsymlinksspam.sh? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\oceanoptics.snk? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libNatHRTiming.so? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libNatUSB.so? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\README.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\LICENSE? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\COPYRIGHT? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\server\Xusage.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\jvm.hprof.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\tzmappings? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\meta-index? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy\ffjcext.zip? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\security\blacklist? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\meta-index? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\DPInst.xml? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\fontmanager.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\msvcr100.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\deploy.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\ssv.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\glib-lite.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\mlib_image.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\awt.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\javaws.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jp2iexp.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\jfxwebkit.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\javafx_font_t2k.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\gstreamer-lite.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\dtplugin\deployJava1.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\dtplugin\npdeployJava1.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\plugin2\msvcr100.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\server\classes.jsa? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\bin\server\jvm.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\jsse.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\charsets.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\plugin.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\rt.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\javaws.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\rt.jar.pack.gz? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\jfr.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\resources.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\deploy.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaSansDemiBold.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaBrightRegular.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\fonts\LucidaSansRegular.ttf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\cmm\PYCC.pf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\jfxrt.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\cldrdata.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\nashorn.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\_jvm\lib\ext\localedata.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version7.1\Wrapper.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.0\Wrapper.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win32\Version8.5\Wrapper.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\labview\win64\Version8.6\Wrapper.llb? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\dpinst64.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2005_x64.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2008_x86.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OmniDriverGUISupport.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2012_x86.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\SPAM.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2010_x64.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NETOmniDriver-NET20.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\common32.lib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libOmniDriver.so? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libOmniDriver.dylib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OmniDriver64.lib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2012_x64.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libcommon.so? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\dpinst32.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2008_x64.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OmniDriver.jar? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\libcommon.dylib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NETOmniDriver-NET40.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OmniDriver64.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2005_x86.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\vcredist_vs2010_x86.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\common64.lib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OmniDriver32.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\OmniDriver32.lib? ??? ?? ?
+????? ?? ?????. C:\Program Files\Ocean Optics\OmniDriver
+C:\Program Files\Ocean Optics\OmniDriver\docs ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\wavelengthcalibration ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\battery ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\currentout ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\networkconfigure ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\nonlinearitycorrection ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\straylightcorrection ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\version ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\continuousstrobe ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltemperature ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\hardwaretrigger ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\thermoelectric ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\internaltrigger ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\oceanspi ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spibus ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\indy ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\throughput ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\gpio ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\i2cbus ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\boardtemperature ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\irradiancecalibrationfactor ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\detectortemperature ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\resolution ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\singlestrobe ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogin ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\visnirlightsource ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spectrumtype ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\dac ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\buffer ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltriggerdelay ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\saturationthreshold ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\advancedversion ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\uvvislightsource ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\ls450functions ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\highgainmode ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogout ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\sts ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\api ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\api\wrapper ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\utilities ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\highrestiming ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\include ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\VisualBasic6_Declarations ????? ??? ?
+?? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\networkconfigure\NetworkConfigure.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\indy\Indy.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\Coefficients.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\api\wrapper\Wrapper.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\api\wrapper\WrapperExtensions.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\QE65000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\JazUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameXNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NextGenUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIRQuest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HR2000Plus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\stylesheet.css? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ArrayTypes.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogIn.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AdvancedVersionImpl_NIR.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AdvancedVersionImpl_OBP.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Apex.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BlazeBench.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogOutImpl_PSOC.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnnotatedSpectrum.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BlazeNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogOutGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CCDShutter.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullImpl_Jaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CurrentOutImpl_LS450.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogDac.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogDacGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ClearDigitalOutputGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AbstractTableModel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_OBP.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Bench.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CurrentOut.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ClearDigitalOutput.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperatureImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AdvancedIntegrationClock.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AbstractSequentialList.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CCDShutterImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BaseJavaClass.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AdvancedVersion.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AbstractCollection.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ClockFeatureImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BlazeTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperatureGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ByteConversions.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogOutImpl_ADC1000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_FPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperatureFX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogOut.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_ADC1000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Calibration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BitSet.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperatureImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CCDShutterGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BluetoothPin.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Collection.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ConfigureFromFile.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AcquisitionListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CalibrationImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CalibrationGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Coefficients.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CCDTemperatureGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetControllerTypeGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FeatureEvent.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelay.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FHSA232.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DeviceLocator.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetControllerTypeImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EndProgramSequenceGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOImpl_Blaze.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DisableProgramImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DisableDriveGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EndProgramSequence.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetPositionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetVersion.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCLogBlockHeader.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameXConfiguration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ErrorCode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GainInterface.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTemperature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExposureImageImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Flame_DA_VN.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Dragon.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DataBufferImpl_Blaze.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetNegativeLimitImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetNegativeLimitGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExposureListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetControllerSerialNumber.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetCurrentActualVelocityImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FluxData.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTemperatureGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCHeader.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetStatusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_Blaze.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DisableProgram.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Date.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FeatureListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EnableProgram.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DetectorTemperatureImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetTargetPositionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_USB2kp.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameXUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOImpl_OBP.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EnableProgramGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExposureImageGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GateDelayListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetActualStatusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_HR2kp.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FirmwareGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DisableProgramGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetCurrentActualVelocity.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameXTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetOperationStatusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExposureImage.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FaulhaberCommandIntegerResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DisableDriveImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetNodeNumberImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetFaultStatusImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetVelocityImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DetectorTemperatureGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DeviceLocationProber.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DetectorTemperature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetFaultStatusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTemperatureImpl_LS450.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Feature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExposureImageable.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameFXUDPIP4Prober.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndySetVOutCountsRequest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LS450_Functions.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyCurrentSampleArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LoadAbsolutePosition.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockRate.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HR2000PlusTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LoadRelativePositionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LightSourceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HR2000PlusStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyExcitationSetVoltage.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyExcitationStatusResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImplFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LS450_FunctionsImpl_4000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\JSocket.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBusImplNonFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HighResTimeStamp.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ListIterator.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IPv4SubnetAddress.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBusImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyCurrentSample.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyVoltageSampleArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorImpl_Blaze.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LightSourceImpl_OBP.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\InternalTriggerGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LinkedList.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HighResTimingTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Indy420TxSetCalibration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndySet420TxCountsRequest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Maya2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LoadRelativePosition.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBusImpl_SHA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\InternalTrigger.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImpl_Blaze.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IP4Constants.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImpl_NxGen.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MappingTable.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImplNonFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HighGainMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IPv4Address.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Iterator.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Indy420TxStatusResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyModuleCountResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\List.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockRateImpl_2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HL2000HP232.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LaserArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LightSourceGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCSubfileEntry.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\InternalTriggerWrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBusImplFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MPDeviceBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NotifyPositionEnable.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OpCodes.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MMSRamanTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NodeGraphCertificate.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\QE65000TriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MMSRamanConstants.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NextGenTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MoveAndWaitGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NextGenTriggerModeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OceanFxNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MMSRamanCalibration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MultiChannelImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PlugInProviderImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Point2D.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OBPSpectrumArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OceanBinaryProtocolMessage.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MayaPro2000TriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIR512.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MultiChannelGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MonoScan2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MMSRamanChannel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PlugInProviderImplNonFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkConfigureImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Platform.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkType.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIRPixelTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PlugInProviderImplFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MayaPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PollingTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MMSRamanSpectrometer.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MayaPro2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIR.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkSourceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PlugInProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MPM2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RawUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PixelBinningWrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkSpectrometer.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkConfigureImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Node.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIRQuest256.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_W1064m.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TableModelListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\STSConfigurationBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThreadingTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TakesIntegerParameter.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StopSpectrumGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SHAGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_NIR.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerChannelJaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetSpeedGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\STSBench.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_NIRQuest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SPIBusImplFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectric.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RunHomingSequenceGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetSpeed.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StatusImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetOutputDigital.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetResponseModeGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SimulationGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TestNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Spectrum.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ResumeProgramImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SPIBus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TimeoutException.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerChannelInfoJaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SHACoefficients.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerFactory.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RawUSBTests.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetHomePositionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThroughputImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StrayLightCorrectionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ResetNodeGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetVelocityImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerChannelInfo.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricShowFanControl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Throughput.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerChannelArcoptix.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StrayLightCorrection.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SaveToEEPROM.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ResumeProgramGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SingleStrobeImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TableModelListenerArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SingleStrobeGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\STS.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Simulation.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RunHomingSequence.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ShutterClockImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RunHallHoming.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SupportStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerReconstruction.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumConsumer.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SaveToEEPROMImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumProducerBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_Remora.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetVelocity.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\S8378Status.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ResetNode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SHA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TableModelEvent.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\allclasses-noframe.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\allclasses-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\dac\AnalogDac.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\advancedversion\AdvancedVersion.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Ventana.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB4000Status.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ToggleDigitalOutput.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSourceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBDeviceDescriptor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\W1064m.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBEndpointDescriptor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB2000PlusStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\VIS_NIR_LightSourceImpl_Flame.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WavelengthCalibrationProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Vector.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UniUSBPipeManager.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSourceJAZCompatible.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WiFiSecurity.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WavelengthCalibrationImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB_LS450.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB250.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSourceImpl_2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB4000TriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSourceGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSourceImpl_4000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBConfigurationDescriptor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WavelengthCalibrationTableModel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WrapperLinux64.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB2kpTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBEndpointDevice.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBInterface.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSource.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\VersionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UniUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB500.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ToggleDigitalOutputImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\deprecated-list.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\help-doc.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\constant-values.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\battery\Battery.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\currentout\CurrentOut.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\continuousstrobe\ContinuousStrobe.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltemperature\ExternalTemperatureWrapper.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\hardwaretrigger\HardwareTrigger.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\gpio\GPIO.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\boardtemperature\BoardTemperature.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\detectortemperature\DetectorTemperature.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogin\AnalogIn.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\buffer\DataBuffer.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltriggerdelay\ExternalTriggerDelay.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\highgainmode\HighGainMode.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogout\AnalogOut.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\Bench.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\utilities\DoubleArrayManipulation.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\utilities\ByteRoutines.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\overview-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\index.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\overview-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\overview-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\wavelengthcalibration\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\battery\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\currentout\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\networkconfigure\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\nonlinearitycorrection\NonlinearityCorrectionProvider.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\nonlinearitycorrection\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\straylightcorrection\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\version\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\continuousstrobe\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltemperature\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\hardwaretrigger\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\thermoelectric\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\internaltrigger\InternalTriggerWrapper.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\internaltrigger\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\internaltrigger\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\oceanspi\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\oceanspi\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\oceanspi\OceanSPI.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spibus\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\indy\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\throughput\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\throughput\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\gpio\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\i2cbus\I2CBus.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\i2cbus\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\boardtemperature\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\irradiancecalibrationfactor\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\irradiancecalibrationfactor\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\irradiancecalibrationfactor\IrradianceCalibrationFactor.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\detectortemperature\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\resolution\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\singlestrobe\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogin\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\visnirlightsource\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spectrumtype\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\dac\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\buffer\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltriggerdelay\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltriggerdelay\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\saturationthreshold\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\advancedversion\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\uvvislightsource\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\ls450functions\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\ls450functions\LS450_Functions.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\highgainmode\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogout\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\sts\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\api\wrapper\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\api\wrapper\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\utilities\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\highrestiming\HighResTiming.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\highrestiming\package-frame.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\highrestiming\HighResTimeStamp.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\wavelengthcalibration\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\wavelengthcalibration\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\battery\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\currentout\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\networkconfigure\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\nonlinearitycorrection\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\straylightcorrection\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\straylightcorrection\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\version\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\continuousstrobe\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltemperature\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\hardwaretrigger\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\thermoelectric\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spibus\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\indy\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\indy\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\throughput\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\gpio\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\i2cbus\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\i2cbus\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\boardtemperature\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\irradiancecalibrationfactor\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\detectortemperature\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\detectortemperature\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\resolution\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\singlestrobe\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogin\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\visnirlightsource\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spectrumtype\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\dac\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\dac\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\buffer\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltriggerdelay\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\saturationthreshold\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\saturationthreshold\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\advancedversion\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\uvvislightsource\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\ls450functions\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\ls450functions\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\highgainmode\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogout\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\sts\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\utilities\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\utilities\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\highrestiming\package-summary.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\battery\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\currentout\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\networkconfigure\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\nonlinearitycorrection\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\straylightcorrection\StrayLightCorrection.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\version\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\continuousstrobe\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\externaltemperature\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\hardwaretrigger\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\thermoelectric\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\internaltrigger\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\oceanspi\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spibus\SPIBus.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spibus\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\gpio\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\boardtemperature\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\resolution\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\resolution\PixelBinningWrapper.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\singlestrobe\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\singlestrobe\SingleStrobe.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogin\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\visnirlightsource\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spectrumtype\SpectrumTypeWrapper.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\spectrumtype\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\buffer\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\saturationthreshold\SaturationThreshold.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\advancedversion\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\uvvislightsource\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\highgainmode\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\analogout\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\sts\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\spectrometer\sts\STSBench.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\api\wrapper\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\utilities\TemperatureConversion.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\highrestiming\package-tree.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\wavelengthcalibration\WavelengthCalibrationProvider.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\version\Version.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\thermoelectric\ThermoElectricWrapper.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\throughput\Throughput.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\visnirlightsource\VIS_NIR_LightSource.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\com\oceanoptics\omnidriver\features\uvvislightsource\UV_VIS_LightSource.html? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\script.js? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Developer Readme - LabVIEW.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Developer Readme - VBA.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Developer Readme - CPP and C.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Developer Readme - Visual Basic.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Developer Readme - Delphi - Borland 2006.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Developer Readme - Java.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.31.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.0.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.37.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\ManualInstallationInstructions.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 1.64.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 1.5.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.40.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.34.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 1.65.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.39.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 1.61.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.46.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.10.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 1.6.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.38.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.11.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.12.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\readme1st.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.20.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 1.66.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.43.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Release Notes 2.01.txt? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\package-list? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Wrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NextGenNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB4000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HR4000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\JazNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MMSRamanSpectrometer.h.bak? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\VisualBasic6_Declarations\OmniDriver.bas? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ADC1000USBTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ADC1000USB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AbstractList.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ADC1000Channel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AcquisitionPropertiesListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BeginProgrammingSequenceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DataBufferImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DataLinkType.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DefaultTableModel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DataBufferImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BlazeConfiguration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BeginProgrammingSequence.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ArcoptixNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BatteryImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogDacImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobe.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperatureImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CurrentOutGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullImpl_JazUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DeepWellErrorProviderImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BadPixelRemoval.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BeginProgrammingSequenceGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DetectorTemperatureImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullFX2.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperatureImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DataBufferImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BluetoothImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNull.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogDacWrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Configuration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AdvancedIntegrationClockImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Bluetooth.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DataBufferGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DeepWellErrorProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BlazeUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ArcoptixTransport.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_Jaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogInImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CCDTemperature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CCDTemperatureImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DataBuffer.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperatureImpl_QE65000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BlazeTriggerModeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BadPixelRemovalImpl_NIRQuest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogInGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullImpl_Blaze.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AnalogOutImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\CoefficientsArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Battery.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BadPixelRemovalImpl_Dragon.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ClockFeature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BadPixelRemovalImpl_NIR.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ClearDigitalOutputImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BadPixelRemovalGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ContinuousStrobeImpl_FPGA_32bit.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Detector.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BadPixelRemovalImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AutoNullImpl_JazNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\AdvancedVersionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BadPixelRemovalImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BoardTemperature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DeviceIdentityProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\BaseSpecFunctionality.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FaulhaberCommandBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetSpeed.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EnableDrive.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetProgramSequenceGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetStatusImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetSpeedGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerModeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetOperationStatusImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EnableDriveImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetMaximumSpeedGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTemperatureWrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetControllerSerialNumberImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetMaximumSpeedImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EndpointToPipeMapping.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FPGAImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_MayaPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetFaultStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetVersionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetNodeNumberGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetControllerType.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTemperatureImpl_LS450_2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetPosition.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetTargetPositionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlGatedImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetProgramSequence.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EthernetMACAddress.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetCurrentActualVelocityGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetPositiveLimitImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EnableDriveGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DisableDrive.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GatingErrorProviderImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetActualHomingStatusImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FPGARegisters.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GatingErrorProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetTargetPosition.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetSpeedImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EventObject.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EndProgramSequenceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIO.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetProgramSequenceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlGatedGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetActualHomingStatusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameXTriggerModeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetNodeNumber.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\DispatchProtocolMessage.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FaulhaberCommandOnly.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ErrorProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameU.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Enumeration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetVelocityGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetTemperatureImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlGated.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPC.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FaulhaberCommandStringResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetActualHomingStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GainImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetTemperatureGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Firmware.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetPositiveLimitGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetTemperature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetNegativeLimit.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EnableProgramImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Flame_DA_UV.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetMaximumSpeed.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetOperationStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\EnvWrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetActualStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTemperatureImpl_LS450_4000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FirmwareImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetVelocity.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOImpl_Jaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_OBP.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FeatureProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetPositionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ExternalTriggerDelayImpl_Jaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetPositiveLimit.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GainGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetVersionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GetControllerSerialNumberGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\FlameNIR.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GPIOImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorImplFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HighGainModeGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndySample420Response.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyExcitationSetEnable.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Laser.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyGPIOSetValueRequest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\JNIBridge.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndySetVOutVoltsRequest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LoadAbsolutePositionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LaserProviderImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HR2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyGPIOSetConfigRequest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IntegrationTimeChangeListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LS450_FunctionsGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LaserProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCUtils.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\JStringArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HighResTiming.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorImplNonFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyGPIOStatusResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCOldHeader.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Indy420TxSetEnable.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCSubHeader.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LoadAbsolutePositionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IP4SocketDeviceLocator.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Indy420TxCalResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LoadRelativePositionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\InterfaceBoundAddress.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndySet420TxMilliampsRequest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GUIProviderArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HighGainModeImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndySampleVResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBusImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HighGainModeImpl_NIRQuest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\InternalTriggerImpl_Jaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCConstants.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LightSourceImpl_Ventana.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Indy.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyVoltageSample.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\GramsSPCLog.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTriggerImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\I2CBusImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HR4000Status.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyGetVOutResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyFixedInfoResponse.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IndyProtocolMessages.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LaserGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\HardwareTrigger.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradCalTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\JString.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\JazStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LightSource.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\IrradianceCalibrationFactorImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkConfigureGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NotifyPositionEnableImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PixelRangeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PixelRange.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MoveImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LS450_FunctionsImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MMSRaman.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkConfigure.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MoveGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockRateImpl_MMSRaman.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PixelBinningGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OceanSPIImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockDivisorListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NonlinearityCorrectionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkConfigureImpl_Blaze.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MulticastScan.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NextGenConfiguration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NotifyPositionDisableGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIRStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OceanSPI.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PixelBinning.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MayaLSL.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockRateImpl_ADC.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MulticastRemoteDevice.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkSourceGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockDivisorImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OffsetConstraints.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NoMoreHostsException.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MoveAndWaitImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LS450Coefficients.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Main.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MethodDescriptorProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MultiChannelListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NetworkSource.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OceanBinaryProtocolProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MultiChannelImpl_JazUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIRQuest512.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NotifyPositionEnableGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\LS450_FunctionsImpl_2000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Pancake.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PreCompiledHeader.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OmniDriverDispatchListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MultiChannelProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NotifyPositionDisable.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockDivisor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\QEProBench.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Move.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NonlinearityCorrectionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MoveAndWait.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NotifyPositionDisableImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\PixelBinningImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NonlinearityCorrectionProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\NIR256.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MPProductTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MayaProTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MasterClockRateImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MultiChannelImpl_JazNetwork.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OBPSpectrum.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\MethodDescriptorHelper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\OmniSpectrum.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SaturationThreshold.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RawData.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SASChannel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectralProcessor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RamanReconstruction.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\S8378.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetVelocityGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetOutputErrorGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RawUSBImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RunHomingSequenceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetOutputError.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SaturationThresholdImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RunHallHomingGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ReferenceManager.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SimulationChannel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerAssembly.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Remora.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Spectrometer.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SaveToEEPROMGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetSpeedImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SingleStrobeImpl_Jaz.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetResponseModeImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RamanExposure.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\QEProTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SingleStrobe.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetDigitalOutputGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ResumeProgram.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SaturationThresholdGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetOutputDigitalImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetResponseMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SingleStrobeImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\QEProTriggerModeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetHomePosition.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SHAChannel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SHAConstants.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\QEProConfiguration.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetOutputDigitalGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RawUsbGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetOutputErrorImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SAS.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ResetNodeImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetDigitalOutput.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetDigitalOutputImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ShutterClock.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SetHomePositionGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SHAImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\RunHallHomingImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SimulationImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SimulationProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SingleStrobeImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SingleStrobeImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ReferenceConstraints.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StopWatch.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SPIBusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TakesNoParameter.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB650.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumListener.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TakesStringParameter.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricWrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SPIBusImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SPIBusImpl_FX.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumTypeSelect.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Torus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerPlugInInfo.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StatusGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SPIBusImplNonFPGA.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StrayLightCorrectionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Status.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerExposure.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumTypeSelectImpl_STSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_W1064VisNir.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_Ventana.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerInfo.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ToggleDigitalOutputGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UniWinUSB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\STSBenchTest.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TriggerSource.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TestWrapperFeatures.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\STSTriggerMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerChannelSTSBase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\TableModel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB325.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumProducer.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerPlugInArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumType.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricImpl_QE65000.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StopSpectrumImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StopSpectrum.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThroughputGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumCertificate.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumTypeWrapper.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumTypeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB2kp.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumHandler.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UDPIP4MulticastDiscovery.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerChannelArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerChannel.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrumTypeSelectGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\ThermoElectricGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\STSTriggerModeArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\StatusProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SPIBusImpl_QEPro.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Test.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\SpectrometerPlugIn.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UniRS232.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBFeature.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBConstants.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBCommonDescriptor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WiFiMode.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\VIS_NIR_LightSource.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\VIS_NIR_LightSourceImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBSpectrometer.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\W1064VisNir.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB_ISS.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\Version.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSourceImpl_JAZ.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WrapperExtensions.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WiFiPassphrase.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBStringDescriptor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WiFiSSID.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WavelengthCalibrationImpl_MMSRaman.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB_ISS_UV.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\WavelengthCalibrationGUIProvider.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBInterfaceDescriptor.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\UV_VIS_LightSourceImpl_Flame.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBProductInfo.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBDriver.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBSpectrometerArray.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USBLogicalPortStatus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\USB2000Plus.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\include\VersionImpl.h? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\OmniDriver_Programming_Manual.pdf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\OmniDriver_Application_Note - How to Use the Timeout Feature.pdf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\Developing with OmniDriver on MacOSX.rtf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\docs\javadocs.omnidriver\index-all.html? ??? ?? ?
+????? ?? ?????. C:\Program Files\Ocean Optics\OmniDriver
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\Static ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\Static\amd64 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\Static\i386 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\x86 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\amd64 ????? ??? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\i386 ????? ??? ?
+?? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_adc1000usb.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_apex.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_HR4000.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\elmo2238_64.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_1064vnir.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_flame_u.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_HR2000Plus.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\cypress3.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_1064m.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\cypress.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\cypress2.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_hr2000.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_flame_nir.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_NIRQuest256.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Jaz.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_sas.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_nir512.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_nir256.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_mayalsl.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_mmsraman.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_spark.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Maya2000Pro.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_idrdevice.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_lightsource.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_QE65000.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_maya2000.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_NIRQuest512.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB250.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\winusbcompat.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB650.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Torus.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB4000.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB325.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\ooi_ventana.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB2000.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_STS.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB2000Plus.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB500.cat? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\cypress3.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\cypress.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_1064M.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_1064VNIR.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_NIRQuest256.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Maya2000.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Maya2000Pro.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_ADC1000USB.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_NIR256.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_HR4000.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Apex.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_QE65000.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_HR2000.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_HR2000Plus.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Jaz.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_MayaLSL.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Lightsource.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\elmo2238_64.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\IDRdevice.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\cypress2.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_NIR512.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_FlameNIR.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_NIRQuest512.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_MMSRaman.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Flame_U.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB500.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB2000Plus.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Ventana.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Spark.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB4000.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB650.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB250.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_Torus.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB2000.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_STS.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_USB325.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\OOI_SAS.inf? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\Static\amd64\ftd2xx.lib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\Static\i386\ftd2xx.lib? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\x86\WdfCoInstaller01007.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\x86\dpinst.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\x86\WUDFUpdate_01007.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\x86\WinUSBCoInstaller.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\amd64\WdfCoInstaller01007.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\amd64\dpinst.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\amd64\WUDFUpdate_01007.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\amd64\WinUSBCoInstaller.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\i386\WdfCoInstaller01007.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\i386\dpinst.exe? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\i386\WUDFUpdate_01007.dll? ??? ?? ?
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\i386\WinUSBCoInstaller.dll? ??? ?? ?
+Uninstall OmniDriver-win64-2.56? ?? ??? ??? ?
+Adding C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME to System Path
+Installing the Microsoft VC redistribution DLL's (this may take a minute)
+Executing vcredist_vs2008_x64.exe /q
+Script exit code: 0
+
+Script output:
+ 
+
+Script stderr:
+ 
+
+Installing the Microsoft VC redistribution DLL's (this may take a minute)
+Executing vcredist_vs2010_x64.exe /q
+Script exit code: 5100
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+vcredist_vs2010_x64.exe /q?(?) ???? ?? ?? ??: Program ended with an error exit code
+Registering .NET assemblies
+Executing RegAsm64.vs2005.exe /codebase /tlb "C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NETOmniDriver-NET20.dll"
+Script exit code: 0
+
+Script output:
+ Microsoft (R) .NET Framework Assembly Registration Utility 2.0.50727.4927
+Copyright (C) Microsoft Corporation 1998-2004.  All rights reserved.
+
+Types registered successfully
+'BaseJavaClass.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Coefficients.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IndyCurrentSample.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IndyVoltageSample.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumType.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'OBPSpectrum.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumTypeSelect.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ExternalTemperature.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ExternalTemperatureWrapper.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'TriggerSource.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'InternalTrigger.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'InternalTriggerWrapper.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'PixelBinning.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'PixelBinningWrapper.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumTypeWrapper.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ThermoElectric.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ThermoElectricWrapper.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AdvancedVersion.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AnalogIn.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AnalogOut.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'OffsetConstraints.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ReferenceConstraints.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AnalogDac.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AutoNull.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Battery.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Bench.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'BitSet.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'BoardTemperature.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ContinuousStrobe.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'CurrentOut.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'DataBuffer.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IPv4Address.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IPv4SubnetAddress.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WiFiSSID.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WiFiPassphrase.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'NetworkConfigure.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Detector.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'DetectorTemperature.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ExternalTriggerDelay.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'GPIO.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'HighGainMode.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'HighResTimeStamp.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'I2CBus.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Indy.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IrradianceCalibrationFactor.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'LightSource.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'LS450Coefficients.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'LS450_Functions.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'NonlinearityCorrectionProvider.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'OceanSPI.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SingleStrobe.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SPIBus.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'StrayLightCorrection.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'STSBench.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Throughput.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'UV_VIS_LightSource.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'VIS_NIR_LightSource.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Spectrum.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumListener.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumProducerBase.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrometerInfo.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumProducer.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumHandler.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrometerChannelInfo.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrometerChannel.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Spectrometer.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AcquisitionListener.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Version.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WavelengthCalibrationProvider.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WrapperExtensions.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SaturationThreshold.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Wrapper.<alignment member>, NETOmniDriver-NET20'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+Assembly exported to 'C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NETOmniDriver-NET20.tlb', and the type library was registered successfully
+
+Script stderr:
+ 
+
+Registering .NET assemblies
+Executing RegAsm64.vs2010.exe /codebase /tlb "C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NETOmniDriver-NET40.dll"
+Script exit code: 0
+
+Script output:
+ Microsoft .NET Framework 버전 4.0.30319.1용
+Microsoft .NET Framework Assembly Registration Utility 버전 4.0.30319.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+형식이 등록되었습니다.
+'BaseJavaClass.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Coefficients.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IndyCurrentSample.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IndyVoltageSample.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumType.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'OBPSpectrum.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumTypeSelect.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ExternalTemperature.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ExternalTemperatureWrapper.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'TriggerSource.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'InternalTrigger.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'InternalTriggerWrapper.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'PixelBinning.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'PixelBinningWrapper.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumTypeWrapper.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ThermoElectric.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ThermoElectricWrapper.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AdvancedVersion.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AnalogIn.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AnalogOut.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'OffsetConstraints.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ReferenceConstraints.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AnalogDac.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AutoNull.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Battery.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Bench.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'BitSet.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'BoardTemperature.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ContinuousStrobe.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'CurrentOut.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'DataBuffer.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IPv4Address.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IPv4SubnetAddress.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WiFiSSID.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WiFiPassphrase.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'NetworkConfigure.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Detector.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'DetectorTemperature.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'ExternalTriggerDelay.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'GPIO.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'HighGainMode.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'HighResTimeStamp.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'I2CBus.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Indy.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'IrradianceCalibrationFactor.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'LightSource.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'LS450Coefficients.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'LS450_Functions.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'NonlinearityCorrectionProvider.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'OceanSPI.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SingleStrobe.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SPIBus.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'StrayLightCorrection.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'STSBench.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Throughput.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'UV_VIS_LightSource.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'VIS_NIR_LightSource.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Spectrum.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumListener.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumProducerBase.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrometerInfo.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumProducer.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrumHandler.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrometerChannelInfo.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SpectrometerChannel.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Spectrometer.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'AcquisitionListener.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Version.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WavelengthCalibrationProvider.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'WrapperExtensions.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'SaturationThreshold.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+'Wrapper.<alignment member>, NETOmniDriver-NET40'을(를) 처리하는 동안 형식 라이브러리 내보내기에서 경고가 발생했습니다. 경고: public 구조체에 포함된 내보낼 필드에 public이 아닌 필드가 하나 이상 있습니다.
+어셈블리를 'C:\Program Files\Ocean Optics\OmniDriver\OOI_HOME\NETOmniDriver-NET40.tlb'(으)로 내보내고 형식 라이브러리를 등록했습니다.
+
+Script stderr:
+ 
+
+Installing WinUSB drivers
+Executing C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\dpinst64.exe /q /lm /sa
+Script exit code: unknown signal
+
+Script output:
+ 
+
+Script stderr:
+ child killed: unknown signal
+
+C:\Program Files\Ocean Optics\OmniDriver\winusb_driver\dpinst64.exe /q /lm /sa?(?) ???? ?? ?? ??: child killed: unknown signal
+?? ?? ??????
+?? ??? ???
+?? ??? 25%?(?) ??? ?
+?? ??? 50%?(?) ??? ?
+?? ??? 75%?(?) ??? ?
+?? ??? 100%?(?) ??? ?
+?? ??
+Log finished 09/30/2021 at 11:34:36

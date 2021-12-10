@@ -1,0 +1,53 @@
+Release Notes for OmniDriver 2.20  - 2012.09.12
+
+
+
+New Features
+------------
+1. A new C# sample is provided named "SpeedTest".
+   Customers can use this utility to determine the maximum performance possible for their
+   spectrometer model on the Windows platform.  Performance is reported in "spectra per second".
+
+2. The method of interpolation has been changed within the AdvancedColor.computeReflectiveChromaticity(),
+   AdvancedColor.computeEmissiveChromaticity() and AdvancedPhotometrics.computeLuminousFluxLumens().
+   In the past, interpolation was performed on the sample spectrum to obtain data points at the 5nm intervals 
+   provided by the response spectrum (x-bar,y-bar,z-bar). If there were sharp peaks in the sample spectrum, 
+   this method of interpolation could give poor results. The solution was to "reverse" the direction of interpolation.  
+   Now we interpolate the response spectrum to obtain data points that correspond to each pixel of the sample spectrum.
+   Since the response spectrum is fairly smooth, this produces "good" data.
+   Also, we now use lagrange interpolation instead of linear or cubic spline interpolation.
+
+3. Branding of the redistributable installers.
+   Two new command line parameters have been added to the redistributable installers.
+   One new parameter allows you to override the company name of "Ocean Optics", replacing it with your
+   own company name.  The other new parameter allows you to override the product name of "OmniDriver", 
+   replacing it with your own product name.
+   The effect of these two new parameters is to specify the company name and product name as displayed
+   on the various installer-wizard panels during the installation process.
+   Additionally, when you specify both parameter overrides, OmniDriver will be installed into 
+   C:\Program Files\your_company_name\your_product_name
+   
+   Example:
+   	OmniDriver-2.20-win64-redistributable-installer.exe --company_name "AcmeCompany"  --product_name "RoadRunnerEliminatorKit"
+   	
+   IMPORTANT: Please avoid spaces in the company and product names you specify.
+   	
+   Further note: you are free to rename the installer EXE's to reflect your company and product name.
+   
+4. Additional signed drivers.
+   Drivers for the following devices have now been certified by WHQL.
+   This means they will install automatically when connected to your PC.
+   - HR2000+
+   - MayaPro2000
+   - NIRQuest256/512
+   
+
+Bug Fixes
+---------
+1. A memory leak has been fixed.  The leak occurred whenever an I/O error or timeout occurred 
+   when attempting to acquire spectra from the spectrometer by calling wrapper.getSpectrum().
+   The memory leak condition does not occur during normal successful calls to getSpectrum().
+
+2. Created a new ThermoElectricWrapper object which adds the methods getTECEnable() and getFanEnable().
+   Wrapper.getFeatureControllerThermoElectric() has been modified to return
+   the new ThermoElectricWrapper object instead of the older ThermoElectric object.

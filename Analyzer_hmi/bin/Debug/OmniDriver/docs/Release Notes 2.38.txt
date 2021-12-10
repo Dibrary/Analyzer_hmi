@@ -1,0 +1,27 @@
+Release Notes for OmniDriver 2.38  - 2015.05.05
+
+
+New Features
+------------
+1. New methods were added, 'readRawUSB' and 'writeRawUSB', which allow direct access to the USB port. 
+   They essentially bypass OOI controlled protocols and their respective checks so caution should be used 
+   when exercising these methods. See OmniDriver Java documentation for further information.
+
+2. Additional support was added for Flame-S and Flame-T spectrometers. The method 'getFirmwareModel' was 
+   added to verify spectrometer types. The external indicator LEDs on these spectrometers can be controlled 
+   via 'writeRawUSB'. The packet would consist of hex 13 followed by a 1 or 0 for 'on' or 'off' respectively.
+   
+3. New support was added for our spectral sensor called Spark. Spark has the capability of automatic USB
+   driver discovery under most Windows operating systems. Spark was derived from the STS based family. 
+      
+4. New samples were added to 2.38 Sample pack:
+	- OmniDriver demo in Excel
+	- Simple GUI interface in C#
+	- LabView 8.5 samples
+	- Matlab samples
+	- Linux Cpp example
+	  
+Bug Fixes
+---------
+1. For those users denied on-line access, window USB drivers are now provided for the QEPro and Spark devices. 
+   These can be found under installed 'Offline' directories for both WinXP and Window 7,8,10.

@@ -1,0 +1,21 @@
+Release Notes for OmniDriver 2.40  - 2015.07.29
+
+
+New Features
+------------
+1. Add support for the new Flame series 'F' model which supports 2048 pixels and 
+   no electric dark correction.
+   
+2. Add support for the new Flame series 'NIR' model which supports 128 pixels and 
+   no electric dark correction.
+   
+      
+Bug Fixes
+---------
+1. Modify Flame-S support to use electric dark correction pixels in the range of 6 to 21.
+
+2. Modify Flame-T support to use electric dark correction pixels in the range of 5 to 16.
+
+1. Modify USB2000+ support to use electric dark correction pixels in the range of 7 to 22.
+
+1. Modify USB4000 support to use electric dark correction pixels in the range of 6 to 17.

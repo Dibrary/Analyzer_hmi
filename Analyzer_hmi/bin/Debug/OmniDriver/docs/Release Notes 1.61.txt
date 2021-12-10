@@ -1,0 +1,17 @@
+Release Notes for OmniDriver 1.61  - 2011.02.02
+
+
+Bug Fixes
+---------
+1. ADC1000USB hangs the application during initialization.  (tracker 1676)
+
+
+New Features
+------------
+1. Provide a way for applications to get out of external trigger mode when no trigger signal is expected. (tracker 822)
+
+
+Samples
+-------
+A new C++ sample has been added to demonstrate how to use the new timeout capability.
+The name of the sample is vs2005_cpp_cpp_TimeoutDemo

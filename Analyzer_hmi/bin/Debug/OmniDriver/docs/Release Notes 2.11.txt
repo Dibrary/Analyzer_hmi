@@ -1,0 +1,29 @@
+Release Notes for OmniDriver 2.11  - June 6, 2012
+
+
+New Features
+------------
+
+1. The installer for the Mac OS X platform has been rewritten.  
+   OmniDriver for the Mac is now distributed as an application-bundle in the form of a *.tar.gz file.
+   The new installer will create all necessary environment variables, and update the PATH automatically.
+   Refer to the section titled "Installing on a Mac OS X Platform" in chapter two of the
+   "OmniDriver Programming Manual" for more details.
+   (TRACKER 1888)
+2. All 32-bit OmniDriver installers may now be run on either 32-bit or 64-bit Windows.
+   This allows customers to create a single 32-bit application that will run on
+   both 32-bit and 64-bit Windows systems.
+   (TRACKER 2526)
+3. The javadocs for OmniDriver have been pared down.  
+   We have removed superfluous documentation for classes that are not a part of the public API.
+   (TRACKER 2524)
+   
+
+Bug Fixes
+---------
+1. Due to a bug in our 64-bit Windows installers, users were required to manually install the drivers
+   for their spectrometers on 64-bit Windows systems.  This has now been fixed. 
+   As a result, the following spectrometers will automatically install the required driver
+   when they are plugged in:
+   USB2000, USB4000, HR4000, USB325, USB650, Amadeus/USB250/USB500, JAZ, STS
+   (TRACKER 2525)

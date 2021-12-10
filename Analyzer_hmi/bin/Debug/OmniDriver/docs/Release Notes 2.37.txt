@@ -1,0 +1,27 @@
+Release Notes for OmniDriver 2.37  - 2014.06.06
+
+
+
+
+New Features
+
+------------
+
+1. Added support for Maya LSL spectrometer.
+
+3. Added initial support for 1064M spectrometer.
+
+2. Added two new commands for QE-Pro spectrometer under data buffering.
+   a. Abort acquisition
+   b. Start acquisition
+
+4. Separate Windows XP usb inf files during OmniDriver installation. 
+
+
+
+Bug Fixes
+
+---------
+
+1. Miscellaneous Installation / UnInstallation bugs fixed.
+

@@ -1,0 +1,149 @@
+Release Notes for OmniDriver 1.6
+
+
+IMPORTANT - Before you upgrade to OmniDriver 1.6
+---------
+You will need to make minor changes to your OmniDriver
+application in order to adapt it to use OmniDriver 1.6
+Please carefully read the document titled
+"How to Upgrade Your Application to Use OmniDriver 1.6.pdf"
+before installing OmniDriver 1.6
+This document is organized into sections for each development
+language. Find the section for the language you are developing with.
+
+
+.NET Framework
+--------------
+
+MANDATORY!
+
+Before you can install the new version of OmniDriver on Windows platforms,
+you must first ensure that .NET Framework 2.0 or later has been installed.
+Most Windows platforms will already satisfy this requirement.
+But if you are using an older version of Windows, it may be necessary
+for you to manually upgrade your system to .NET Framework 2.0.
+Installers for 32-bit and 64-bit flavors of the .NET 2.0 Framework
+may be downloaded directly from the Ocean Optics FTP server
+at ftp://downloads.oceanoptics.net/OmniDriver/Windows
+
+The names of the installer files are:
+32-bit: DotNetFramework_2.0_32bit.exe
+64-bit: DotNetFramework_2.0_64bit.exe
+
+
+Samples
+-------
+Samples have been moved into a separate installer for all Windows-based samples.
+The name of the new installer is
+OmniDriver_and_SPAM-OceanOpticsSamplePack-1.6-windows-installer.exe
+
+
+NEW DRIVERS
+-----------
+
+On 64-bit Windows systems, OmniDriver 1.6 is distributed with a completely new 
+low-level "driver" named "WinUSB".
+32-bit Windows systems will continue to use the ezusb.sys driver for all Ocean Optics spectrometers.
+
+
+64-bit Support
+--------------
+The primary purpose of this release is to add support for 64-bit Windows operating systems.
+We now support 32-bit and 64-bit versions of Windows XP, Vista, and Windows 7.
+
+
+
+.NET Support (COM is deprecated)
+--------------------------------
+This release of OmniDriver adds support for the .NET interface.
+The principle benefit of the new OmniDriver .NET interface
+is true multi-threading.  Threads will no longer be blocked
+by OmniDriver function calls in other threads.
+The COM interface has been deprecated, although it is still
+available for applications which are developed in Visual Basic 6 (VB6).
+
+
+
+VB6 Limitation
+--------------
+VB6 applications ARE supported on 64-bit operating systems.
+But they must run in 32-bit mode.
+
+
+
+Other New Features
+------------------
+1. Added support for the Remora wireless device.
+   To open a spectrometer attached to the Remora, make the following call:
+   wrapper->getWrapperExtensions()->openRemoteSpectrometer(String ipAddress, String deviceType, String busType)
+   where:
+   	ipAddress is something like "192.168.42.7"
+   	deviceType is either "remora" or "Jaz-(Network)"
+   	busType must be set to "internet"
+   This new function returns a spectrometerIndex number which may be used when calling other
+   Wrapper API functions to identify which spectrometer is to be used.
+
+2. VB6 (Visual Basic 6) developers may now use the COM interface to the omniDriver and SPAM libraries.
+   When assigning object references to VB variables, remember to use the "Set" keyword in your assignment statement.
+   For example:
+   Set versionFeatureController = wrapper.getFeatureControllerVersion(0) ' example of correct syntax
+   The "Set" keyword is NOT necessary when assigning all other non-object datatypes to VB variables.
+   CAVEAT: when testing the return value from functions which return a boolean value, do not compare the
+   return value with the symbolic true/false values.  Instead, use 1 to represent true and 0 to represent false.
+   NOTE: the more awkward "C" interface to OmniDriver may still be used, although we do not
+   provide DLL function declarations in OmniDriver.bas for the SPAM objects and methods.
+
+3. Minor addition to the VBA sample named "AcquireSpectrum.xls"
+
+4. Added support for the ARCoptix spectrometer.  Mention that the user must install the SpectraSuiteHub.
+
+5. Added support for the Dragon spectrometer (tracker 1343).
+
+6. Implemented per-spectrometer saturation threshold setting for the MayaPRO spectrometer (tracker 1369)
+
+7. Changed WrapperExtensions.getBadPixels() to return short[] instead of int[] -- to see if this fixes the problem
+   with the COM interface to this method.
+
+8. On 64-bit Windows systems, we have replaced the old EZUSB.SYS USB driver with the new WinUSB driver.
+   The WinUSB-based drivers have been "signed" to assure integrity and simplify installation.
+
+9. Added an option to override the default Java JVM memory size.  The default size has been reduced from 250MB to 80MB.
+   This should eliminate the "Can't load JVM" errors that sometimes occur when using OmniDriver with LabVIEW.
+   On Linux, Mac, and 64-bit Windows platforms, the default JVM memory size is 250MB.
+   On 32-bit Windows platforms, the default is 80MB.
+   If your application requires more memory (possibly due to large buffers needed by the high-speed-acquisition feature),
+   create a file in the OOI_HOME directory named jvm_option.memorysize
+   Insert a single line in this file like the following (but with no leading spaces):
+   	-Xmx128m
+   This example will set the JVM memory size to 128 megabytes.
+   To revert to the default setting for JVM memory size, simply delete the jvm_option.memorysize file.
+   This line is case-sensitive, so be careful.  
+   If you make a mistake and specify invalid syntax, you will get the error message "Cannot create JVM.  return code = -6"
+   when your application starts up.
+
+10. All sample projects have been moved to a separate installer.
+
+11. Corrected a version number check in the AnalogOut feature for the ADC1000-USB.  Should require firmware version 1.01.0
+    to support this feature.  (tracker 1564)
+
+
+
+Bug Fixes
+---------
+1. Fix problem with USB500 wavelength calibration (tracker 1377).
+
+2. IOExceptions when performing I2CBus read operations will no longer cause application to crash.
+   Instead, it will return a zero-length byte array.  The user can call wrapper.getLastException()
+   to determine the nature of the error.  [tracker 1380]
+
+3. Fix bug in several GPIO methods: setValueAllBits(), setDirectionAllBits() and setMuxAllBits()
+   BitSet.bitSetToShort() method should use length() instead of size() in three places. [tracker 592]
+
+4. Fix declaration of Wrapper_getWrapperExtensions() in OmniDriver.bas.  This caused VB6 applications
+   to crash if they called this method.  The vb6_c_SpectrometerAcquisition sample application has been 
+   modified accordingly. (tracker 1435)
+
+5. Corrected a bug in the Mac OmniDriver sample "GPPSpectrumTest_Mac" and added a script to build the sample
+   from the command line.
+
+6. Fixed problems that prevented the SPI communication feature from working on spectrometers that support this protocol.

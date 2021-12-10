@@ -1,0 +1,11 @@
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\bin\Debug\Functions_check.exe.config
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\bin\Debug\Functions_check.exe
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\bin\Debug\Functions_check.pdb
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.csprojAssemblyReference.cache
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.Form1.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.Properties.Resources.resources
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.csproj.GenerateResource.cache
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.csproj.CoreCompileInputs.cache
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.csproj.CopyComplete
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.exe
+C:\Dhoon\MyLab\C#\Analyzer_hmi\Functions_check\obj\Debug\Functions_check.pdb

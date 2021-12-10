@@ -1,0 +1,38 @@
+Release Notes for OmniDriver 1.66  - 2011.06.14
+
+
+New Features
+------------
+
+1. A memory leak problem was solved for SPAM functions.
+   To avoid the memory leak, you must use the new "SpectralMath" object
+   to create any and all SPAM-related objects.
+   A new chapter (chapter 13) was added to the "OmniDriver Programming Manual"
+   to show how to use the new SpectralMath class.
+
+2. Support for the new Jaz-PX light source has been added to OmniDriver.
+   This support is provided by a new "feature controller" named "InternalTrigger".
+   You can access this feature controller by means of the wrapper function
+   named getFeatureControllerInternalTrigger().
+   
+3. The version number of the currently installed version of OmniDriver
+   is now displayed in Windows list of installed "Programs and Features".
+   
+4. The Java JVM is now bundled with all Linux installers.  
+   
+
+Bug Fixes
+---------
+
+1. A problem with the persisting of bad pixel information in the STS was fixed.
+
+
+Samples
+-------
+
+1. A new sample was written to illustrate how to use the "C" interface
+   to OmniDriver when using the Borland IDE
+   It is located at C:\Ocean Optics\OmniDriverSamplePack\omnidriver\win32\c\borland_c_interface_sample
+
+2. The samples relating to SPAM have been modified to use the new
+   "SpectralMath" wrapper class.
