@@ -28,12 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea27 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend27 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series27 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.splitContainerAppVsEventLog = new System.Windows.Forms.SplitContainer();
             this.splitContainerGraphSettingsVsControls = new System.Windows.Forms.SplitContainer();
             this.splitContainerGraphVsSettings = new System.Windows.Forms.SplitContainer();
+            this.chartSpectrum = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.tabControlSettings = new System.Windows.Forms.TabControl();
             this.tabPageAcquisition = new System.Windows.Forms.TabPage();
@@ -85,7 +87,9 @@
             this.btnScan = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.textBoxEventLog = new System.Windows.Forms.TextBox();
-            this.chartSpectrum = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.folderBrowserDialogMergeFolder = new System.Windows.Forms.FolderBrowserDialog();
+            this.saveFileDialogSaveAll = new System.Windows.Forms.SaveFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerAppVsEventLog)).BeginInit();
             this.splitContainerAppVsEventLog.Panel1.SuspendLayout();
             this.splitContainerAppVsEventLog.Panel2.SuspendLayout();
@@ -98,6 +102,7 @@
             this.splitContainerGraphVsSettings.Panel1.SuspendLayout();
             this.splitContainerGraphVsSettings.Panel2.SuspendLayout();
             this.splitContainerGraphVsSettings.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chartSpectrum)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.tabControlSettings.SuspendLayout();
             this.tabPageAcquisition.SuspendLayout();
@@ -116,7 +121,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownSaveEverySec)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownMaxScans)).BeginInit();
             this.groupBox3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.chartSpectrum)).BeginInit();
             this.SuspendLayout();
             // 
             // splitContainerAppVsEventLog
@@ -174,6 +178,22 @@
             this.splitContainerGraphVsSettings.SplitterDistance = 675;
             this.splitContainerGraphVsSettings.SplitterWidth = 5;
             this.splitContainerGraphVsSettings.TabIndex = 5;
+            // 
+            // chartSpectrum
+            // 
+            chartArea27.Name = "ChartArea1";
+            this.chartSpectrum.ChartAreas.Add(chartArea27);
+            legend27.Name = "Legend1";
+            this.chartSpectrum.Legends.Add(legend27);
+            this.chartSpectrum.Location = new System.Drawing.Point(0, 3);
+            this.chartSpectrum.Name = "chartSpectrum";
+            series27.ChartArea = "ChartArea1";
+            series27.Legend = "Legend1";
+            series27.Name = "Series1";
+            this.chartSpectrum.Series.Add(series27);
+            this.chartSpectrum.Size = new System.Drawing.Size(674, 320);
+            this.chartSpectrum.TabIndex = 0;
+            this.chartSpectrum.Text = "chart1";
             // 
             // groupBox2
             // 
@@ -239,6 +259,7 @@
             this.checkBoxEnableNLC.TabIndex = 21;
             this.checkBoxEnableNLC.Text = "NLC";
             this.checkBoxEnableNLC.UseVisualStyleBackColor = true;
+            this.checkBoxEnableNLC.CheckedChanged += new System.EventHandler(this.checkBoxEnableNLC_CheckedChanged);
             // 
             // buttonOptimizeIntegrationTimes
             // 
@@ -248,6 +269,7 @@
             this.buttonOptimizeIntegrationTimes.TabIndex = 3;
             this.buttonOptimizeIntegrationTimes.Text = "Optimize";
             this.buttonOptimizeIntegrationTimes.UseVisualStyleBackColor = true;
+            this.buttonOptimizeIntegrationTimes.Click += new System.EventHandler(this.buttonOptimizeIntegrationTimes_Click);
             // 
             // label9
             // 
@@ -269,6 +291,7 @@
             this.checkBoxEnableEDC.TabIndex = 20;
             this.checkBoxEnableEDC.Text = "EDC";
             this.checkBoxEnableEDC.UseVisualStyleBackColor = true;
+            this.checkBoxEnableEDC.CheckedChanged += new System.EventHandler(this.checkBoxEnableEDC_CheckedChanged);
             // 
             // numericUpDownIntegrationTimeMillisec
             // 
@@ -292,6 +315,7 @@
             0,
             0,
             0});
+            this.numericUpDownIntegrationTimeMillisec.ValueChanged += new System.EventHandler(this.numericUpDownIntegrationTimeMillisec_ValueChanged);
             // 
             // numericUpDownScansToAverage
             // 
@@ -310,6 +334,7 @@
             0,
             0,
             0});
+            this.numericUpDownScansToAverage.ValueChanged += new System.EventHandler(this.numericUpDownScansToAverage_ValueChanged);
             // 
             // label3
             // 
@@ -341,6 +366,7 @@
             this.numericUpDownSmoothingBoxcar.Size = new System.Drawing.Size(82, 21);
             this.numericUpDownSmoothingBoxcar.TabIndex = 14;
             this.numericUpDownSmoothingBoxcar.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numericUpDownSmoothingBoxcar.ValueChanged += new System.EventHandler(this.numericUpDownSmoothingBoxcar_ValueChanged);
             // 
             // tabPageGPIO
             // 
@@ -385,6 +411,7 @@
             this.checkBoxGPIOAlt3.TabIndex = 12;
             this.checkBoxGPIOAlt3.Text = "3";
             this.checkBoxGPIOAlt3.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOAlt3.CheckedChanged += new System.EventHandler(this.checkBoxGPIOAlt3_CheckedChanged);
             // 
             // checkBoxGPIODir3
             // 
@@ -394,6 +421,7 @@
             this.checkBoxGPIODir3.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIODir3.TabIndex = 11;
             this.checkBoxGPIODir3.UseVisualStyleBackColor = true;
+            this.checkBoxGPIODir3.CheckedChanged += new System.EventHandler(this.checkBoxGPIODir3_CheckedChanged);
             // 
             // checkBoxGPIOVal3
             // 
@@ -403,6 +431,7 @@
             this.checkBoxGPIOVal3.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIOVal3.TabIndex = 10;
             this.checkBoxGPIOVal3.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOVal3.CheckedChanged += new System.EventHandler(this.checkBoxGPIOVal3_CheckedChanged);
             // 
             // checkBoxGPIOAlt2
             // 
@@ -413,6 +442,7 @@
             this.checkBoxGPIOAlt2.TabIndex = 9;
             this.checkBoxGPIOAlt2.Text = "2";
             this.checkBoxGPIOAlt2.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOAlt2.CheckedChanged += new System.EventHandler(this.checkBoxGPIOAlt2_CheckedChanged);
             // 
             // checkBoxGPIODir2
             // 
@@ -422,6 +452,7 @@
             this.checkBoxGPIODir2.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIODir2.TabIndex = 8;
             this.checkBoxGPIODir2.UseVisualStyleBackColor = true;
+            this.checkBoxGPIODir2.CheckedChanged += new System.EventHandler(this.checkBoxGPIODir2_CheckedChanged);
             // 
             // checkBoxGPIOVal2
             // 
@@ -431,6 +462,7 @@
             this.checkBoxGPIOVal2.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIOVal2.TabIndex = 7;
             this.checkBoxGPIOVal2.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOVal2.CheckedChanged += new System.EventHandler(this.checkBoxGPIOVal2_CheckedChanged);
             // 
             // checkBoxGPIOAlt1
             // 
@@ -441,6 +473,7 @@
             this.checkBoxGPIOAlt1.TabIndex = 6;
             this.checkBoxGPIOAlt1.Text = "1";
             this.checkBoxGPIOAlt1.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOAlt1.CheckedChanged += new System.EventHandler(this.checkBoxGPIOAlt1_CheckedChanged);
             // 
             // checkBoxGPIODir1
             // 
@@ -450,6 +483,7 @@
             this.checkBoxGPIODir1.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIODir1.TabIndex = 5;
             this.checkBoxGPIODir1.UseVisualStyleBackColor = true;
+            this.checkBoxGPIODir1.CheckedChanged += new System.EventHandler(this.checkBoxGPIODir1_CheckedChanged);
             // 
             // checkBoxGPIOVal1
             // 
@@ -459,6 +493,7 @@
             this.checkBoxGPIOVal1.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIOVal1.TabIndex = 4;
             this.checkBoxGPIOVal1.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOVal1.CheckedChanged += new System.EventHandler(this.checkBoxGPIOVal1_CheckedChanged);
             // 
             // label2
             // 
@@ -478,6 +513,7 @@
             this.checkBoxGPIOAlt0.TabIndex = 2;
             this.checkBoxGPIOAlt0.Text = "0";
             this.checkBoxGPIOAlt0.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOAlt0.CheckedChanged += new System.EventHandler(this.checkBoxGPIOAlt0_CheckedChanged);
             // 
             // checkBoxGPIODir0
             // 
@@ -487,6 +523,7 @@
             this.checkBoxGPIODir0.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIODir0.TabIndex = 1;
             this.checkBoxGPIODir0.UseVisualStyleBackColor = true;
+            this.checkBoxGPIODir0.CheckedChanged += new System.EventHandler(this.checkBoxGPIODir0_CheckedChanged);
             // 
             // checkBoxGPIOVal0
             // 
@@ -496,6 +533,7 @@
             this.checkBoxGPIOVal0.Size = new System.Drawing.Size(15, 14);
             this.checkBoxGPIOVal0.TabIndex = 0;
             this.checkBoxGPIOVal0.UseVisualStyleBackColor = true;
+            this.checkBoxGPIOVal0.CheckedChanged += new System.EventHandler(this.checkBoxGPIOVal0_CheckedChanged);
             // 
             // tabPageNoise
             // 
@@ -518,6 +556,7 @@
             this.checkBoxComputeNoise.TabIndex = 1;
             this.checkBoxComputeNoise.Text = "Compute Noise";
             this.checkBoxComputeNoise.UseVisualStyleBackColor = true;
+            this.checkBoxComputeNoise.CheckedChanged += new System.EventHandler(this.checkBoxComputeNoise_CheckedChanged);
             // 
             // groupBoxNoiseSettings
             // 
@@ -562,6 +601,7 @@
             0,
             0,
             0});
+            this.numericUpDownRMSMeasurements.ValueChanged += new System.EventHandler(this.numericUpDownRMSMeasurements_ValueChanged);
             // 
             // groupBox1
             // 
@@ -597,6 +637,7 @@
             this.checkBoxStrobeEnable.TabIndex = 3;
             this.checkBoxStrobeEnable.Text = "Strobe Enable";
             this.checkBoxStrobeEnable.UseVisualStyleBackColor = true;
+            this.checkBoxStrobeEnable.CheckedChanged += new System.EventHandler(this.checkBoxStrobeEnable_CheckedChanged);
             // 
             // checkBoxEnableIrradiance
             // 
@@ -634,6 +675,7 @@
             this.checkBoxSaveAll.TabIndex = 14;
             this.checkBoxSaveAll.Text = "Save All";
             this.checkBoxSaveAll.UseVisualStyleBackColor = true;
+            this.checkBoxSaveAll.CheckedChanged += new System.EventHandler(this.checkBoxSaveAll_CheckedChanged);
             // 
             // label1
             // 
@@ -656,6 +698,7 @@
             this.numericUpDownSaveEverySec.Size = new System.Drawing.Size(79, 21);
             this.numericUpDownSaveEverySec.TabIndex = 12;
             this.numericUpDownSaveEverySec.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numericUpDownSaveEverySec.ValueChanged += new System.EventHandler(this.numericUpDownSaveEverySec_ValueChanged);
             // 
             // labelSaveCount
             // 
@@ -690,6 +733,7 @@
             this.numericUpDownMaxScans.Size = new System.Drawing.Size(79, 21);
             this.numericUpDownMaxScans.TabIndex = 9;
             this.numericUpDownMaxScans.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numericUpDownMaxScans.ValueChanged += new System.EventHandler(this.numericUpDownMaxScans_ValueChanged);
             // 
             // checkBoxEnableDataCollection
             // 
@@ -700,6 +744,7 @@
             this.checkBoxEnableDataCollection.TabIndex = 3;
             this.checkBoxEnableDataCollection.Text = "Enable";
             this.checkBoxEnableDataCollection.UseVisualStyleBackColor = true;
+            this.checkBoxEnableDataCollection.CheckedChanged += new System.EventHandler(this.checkBoxEnableDataCollection_CheckedChanged);
             // 
             // buttonMergeSaved
             // 
@@ -709,6 +754,7 @@
             this.buttonMergeSaved.TabIndex = 6;
             this.buttonMergeSaved.Text = "Merge Saved";
             this.buttonMergeSaved.UseVisualStyleBackColor = true;
+            this.buttonMergeSaved.Click += new System.EventHandler(this.buttonMergeSaved_Click);
             // 
             // buttonReset
             // 
@@ -718,6 +764,7 @@
             this.buttonReset.TabIndex = 5;
             this.buttonReset.Text = "Reset";
             this.buttonReset.UseVisualStyleBackColor = true;
+            this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
             // 
             // btnScan
             // 
@@ -727,6 +774,7 @@
             this.btnScan.TabIndex = 1;
             this.btnScan.Text = "Start";
             this.btnScan.UseVisualStyleBackColor = true;
+            this.btnScan.Click += new System.EventHandler(this.btnScan_Click);
             // 
             // groupBox3
             // 
@@ -753,22 +801,6 @@
             this.textBoxEventLog.Size = new System.Drawing.Size(936, 58);
             this.textBoxEventLog.TabIndex = 0;
             // 
-            // chartSpectrum
-            // 
-            chartArea1.Name = "ChartArea1";
-            this.chartSpectrum.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.chartSpectrum.Legends.Add(legend1);
-            this.chartSpectrum.Location = new System.Drawing.Point(0, 3);
-            this.chartSpectrum.Name = "chartSpectrum";
-            series1.ChartArea = "ChartArea1";
-            series1.Legend = "Legend1";
-            series1.Name = "Series1";
-            this.chartSpectrum.Series.Add(series1);
-            this.chartSpectrum.Size = new System.Drawing.Size(674, 320);
-            this.chartSpectrum.TabIndex = 0;
-            this.chartSpectrum.Text = "chart1";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
@@ -777,6 +809,7 @@
             this.Controls.Add(this.splitContainerAppVsEventLog);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.splitContainerAppVsEventLog.Panel1.ResumeLayout(false);
             this.splitContainerAppVsEventLog.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerAppVsEventLog)).EndInit();
@@ -789,6 +822,7 @@
             this.splitContainerGraphVsSettings.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerGraphVsSettings)).EndInit();
             this.splitContainerGraphVsSettings.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.chartSpectrum)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.tabControlSettings.ResumeLayout(false);
             this.tabPageAcquisition.ResumeLayout(false);
@@ -814,7 +848,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownMaxScans)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.chartSpectrum)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -876,6 +909,9 @@
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.TextBox textBoxEventLog;
         private System.Windows.Forms.DataVisualization.Charting.Chart chartSpectrum;
+        private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialogMergeFolder;
+        private System.Windows.Forms.SaveFileDialog saveFileDialogSaveAll;
     }
 }
 
